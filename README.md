@@ -25,3 +25,15 @@ A running log of things I'm learning a little bit [everyday](https://jamesclear.
 | [Generating Music with Sonic Pi](https://dev.to/jessicagarson/generating-music-with-sonic-pi-57od) | ✓    |
 
 </details>
+
+## Testing
+
+<details>
+
+<summary>Load testing</summary>
+
+| Resource                                                                               | Done |
+| -------------------------------------------------------------------------------------- | ---- |
+| [Introduction to K6](https://medium.com/nerd-for-tech/introduction-to-k6-497e81b4c55a) | ✓    |
+
+</details>
